@@ -5,3 +5,4 @@ The analysis further investigates the distribution of prices, identifies outlier
 
 The project showcases essential data science skills, including data cleaning, statistical analysis, data visualization, correlation analysis, and machine learning. Overall, it provides valuable insights into laptop pricing dynamics, aiding consumers and businesses in decision-making.
 
+
